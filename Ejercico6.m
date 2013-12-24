@@ -1,4 +1,4 @@
-%Ejercicio6
+%Ejercicio6 prueba
 % Fecha: 24/12/2013
 % Autora: Victoria
 %Leer una serie de numeros distintos de 0 que llegue hasta -99 y decir cual ha sido el mayor.
